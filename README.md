@@ -1,10 +1,10 @@
 # Project Management App
 
 - Page
-  [homepage](public/Homepage.png)
+  [homepage](https://github.com/meeklife/project_management_app/blob/main/public/Homepage.png)
 
 - Add Project
-  [new project](public/Adding_Projects.png)
+  [new project](https://github.com/meeklife/project_management_app/blob/main/public/Adding%20_Projects.png)
 
 - Add tasks to project
-  [add tasks](public/Adding_Tasks.png)
+  [add tasks](https://github.com/meeklife/project_management_app/blob/main/public/Adding_Tasks.png)
